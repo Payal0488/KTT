@@ -1,0 +1,20 @@
+{
+  "name": "smart-college-attendance",
+  "version": "1.0.0",
+  "description": "BLE-Based Smart College Attendance Management System",
+  "scripts": {
+    "start:backend": "node --watch backend/server.js",
+    "start:frontend": "npm --prefix frontend run dev",
+    "test:backend": "node backend/test/api.test.js",
+    "seed": "node backend/config/seed.js"
+  },
+  "keywords": [
+    "attendance",
+    "bluetooth-le",
+    "ble",
+    "face-verification",
+    "college"
+  ],
+  "author": "",
+  "license": "ISC"
+}

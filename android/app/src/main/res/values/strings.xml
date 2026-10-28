@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AURA BLE Attendance</string>
+    <string name="teacher_mode">Teacher BLE Beacon</string>
+    <string name="student_mode">Student BLE Scanner</string>
+    <string name="start_beacon">Broadcast Classroom Beacon</string>
+    <string name="stop_beacon">Stop Beacon Broadcast</string>
+    <string name="scan_beacon">Scan for Teacher Beacon</string>
+    <string name="take_selfie">Capture Anti-Proxy Selfie</string>
+    <string name="submit_attendance">Submit Attendance</string>
+</resources>

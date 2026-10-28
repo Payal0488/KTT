@@ -1,0 +1,7 @@
+Database already contains records. Skipping seed.
+====================================================
+ BLE Smart College Attendance API Server running
+ Port:    http://localhost:5000
+ Health:  http://localhost:5000/api/health
+ DB:      SQLite persistent storage
+====================================================
